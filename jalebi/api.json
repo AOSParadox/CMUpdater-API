@@ -1,1 +1,16 @@
-I'm so dummy
+{
+ "id": null,
+ "result": [
+    {
+    "url": "https://qc0.uploads.androidfilehost.com/dl/gsvqba-0pExsRhRYEXeHPQ/1479271386/529152257862681138/AOSParadox-BETA-20161113-jalebi.zip",
+    "timestamp": "1479041100",
+    "api_level": "23",
+    "md5sum": "c86b40339e5e848beb1595d73ca533c1",
+    "filename": "AOSParadox-BETA-20161113-jalebi.zip",
+    "channel": "STABLE",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
