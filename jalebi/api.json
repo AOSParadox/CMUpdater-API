@@ -2,22 +2,6 @@
  "id": null,
  "result": [
     {
-    "url": "https://qc0.uploads.androidfilehost.com/dl/RgaRSGvz-_MBPqPp8guHhA/1479270805/529152257862681138/AOSParadox-BETA-20161113-jalebi.zip",
-    "timestamp": "1479040592",
-    "api_level": "23",
-    "md5sum": "c86b40339e5e848beb1595d73ca533c1",
-    "filename": "AOSParadox-BETA-20161113-jalebi.zip",
-    "channel": "STABLE",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
-}
-{
- "id": null,
- "result": [
-    {
     "url": "https://qc0.uploads.androidfilehost.com/dl/3kTbFfkPtlECx5V8ugnD7w/1479269819/529152257862681126/AOSParadox-STABLE-20161113-jalebi.zip",
     "timestamp": "1479041100",
     "api_level": "23",
