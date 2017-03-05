@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "http://www.download.aosparadox.org/AOSParadox-NOUGAT/AOSParadox-N-STABLE-20170304-lettuce.zip", 
+    "timestamp": "1488662221",
+    "api_level": "25",
+    "md5sum": "236c7bb09fd8e91495cab438db224db1",
+    "filename": "AOSParadox-N-STABLE-20170304-lettuce.zip",
+    "channel": "STABLE",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}

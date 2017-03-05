@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://qc0.uploads.androidfilehost.com/dl/ycvl4WAUBuwGnLpuaHDzhg/1479269753/457095661767115271/AOSParadox-N-STABLE-20161113-tomato.zip",
-    "timestamp": "1479041102",
-    "api_level": "24",
-    "md5sum": "0aeb10d81f03c09955f10eaf4ab7b0bf",
-    "filename": "AOSParadox-N-STABLE-20161113-tomato.zip",
+    "url": "http://www.download.aosparadox.org/AOSParadox-NOUGAT/AOSParadox-N-STABLE-20170304-tomato.zip", 
+    "timestamp": "1488662213",
+    "api_level": "25",
+    "md5sum": "b6c6556bcb56529b796f656a76b564c0",
+    "filename": "AOSParadox-N-STABLE-20170304-tomato.zip",
     "channel": "STABLE",
     "changes": "",
     "incremental": ""

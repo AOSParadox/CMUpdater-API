@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://qc0.uploads.androidfilehost.com/dl/zFLnkbTN71xOlbC5lAVdKA/1479269811/385035244224398154/AOSParadox-N-STABLE-20161113-jalebi.zip",
-    "timestamp": "1479041100",
-    "api_level": "24",
-    "md5sum": "18627d2cb7a71e1676e22c4d4adf733f",
-    "filename": "AOSParadox-N-STABLE-20161113-jalebi.zip",
+    "url": "http://www.download.aosparadox.org/AOSParadox-NOUGAT/AOSParadox-N-STABLE-20170304-jalebi.zip", 
+    "timestamp": "1488662221",
+    "api_level": "25",
+    "md5sum": "93971ec1e5344798d30d7f3d96f5cb34",
+    "filename": "AOSParadox-N-STABLE-20170304-jalebi.zip",
     "channel": "STABLE",
     "changes": "",
     "incremental": ""
