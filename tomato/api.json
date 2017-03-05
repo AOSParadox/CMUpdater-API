@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://qc0.uploads.androidfilehost.com/dl/TzxYNjZ_uz0CyRnNq4Gqkw/1479269704/457095661767115272/AOSParadox-BETA-20161113-tomato.zip",
-    "timestamp": "1479041100",
+    "url": "http://www.download.aosparadox.org/AOSParadox-BETA/AOSParadox-BETA-20170304-tomato.zip", 
+    "timestamp": "1488635487",
     "api_level": "23",
-    "md5sum": "5f5109f3e6cfd6ecba23474712ae93cd",
-    "filename": "AOSParadox-BETA-20161113-tomato.zip",
+    "md5sum": "01e1cdfb3bc9711f52453f3971b07552",
+    "filename": "AOSParadox-BETA-20170304-tomato.zip",
     "channel": "STABLE",
     "changes": "",
     "incremental": ""
